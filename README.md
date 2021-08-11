@@ -1,6 +1,6 @@
 # tpl
 
-## How to used
+## How to use
 1. prepare values.csv file
 ```csv
 file,hosts,cert,crt,path
@@ -28,3 +28,9 @@ server {
 ```bash
 go run .
 ```
+
+## Templete syntax
+[https://pkg.go.dev/text/template#hdr-Examples](https://pkg.go.dev/text/template#hdr-Examples)
+
+## Templete functions
+[https://masterminds.github.io/sprig/](https://masterminds.github.io/sprig/)
