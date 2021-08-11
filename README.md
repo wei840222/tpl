@@ -30,7 +30,7 @@ go run .
 ```
 
 ## Templete syntax
-[https://pkg.go.dev/text/template#hdr-Examples](https://pkg.go.dev/text/template#hdr-Examples)
+[https://pkg.go.dev/text/template](https://pkg.go.dev/text/template)
 
 ## Templete functions
 [https://masterminds.github.io/sprig/](https://masterminds.github.io/sprig/)
